@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#CCS config and other files that scare me
+.settings/*
+Debug/*
+targetConfigs/*
+.ccsproject
+.cproject
+.project
+lnk_msp430f5529
+.launches/*
