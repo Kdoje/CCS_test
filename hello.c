@@ -10,6 +10,7 @@ int main(void)
 	WDTCTL = WDTPW | WDTHOLD;	// stop watchdog timer
 	
 	printf("Hello World!\n");
+	//ay lmao
 	
 	return 0;
 }
